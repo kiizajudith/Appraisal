@@ -1,0 +1,9 @@
+{
+    "users": [
+        {"email":"user123@gmail.com","personnelType":"employee", "givenName": "John", "surname": "Doe"},
+        {"email":"sup123@gmail.com","personnelType":"supervisor", "givenName": "Jane", "surname": "Doe"},
+        {"email":"adm123@gmail.com","personnelType":"administrator", "givenName": "Jane", "surname": "Doe2"},
+        {"email":"exec123@gmail.com","personnelType":"executive", "givenName": "John", "surname": "Doe2"}
+    ],
+    "personnelData": {}
+}
